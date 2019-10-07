@@ -1,4 +1,4 @@
-![Lab Prepaaration](banner.png "Oh I want to get 100")
+![Lab Prepaaration](banner.jpg "Oh I want to get 100")
 
 # LAB PREPARATION 
 
